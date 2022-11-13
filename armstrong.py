@@ -1,5 +1,5 @@
 print("THE ARMSTRONG NUMBER CALCULATOR")
-number = int(input("enter JI the hello how arr themater number"))
+number = int(input("enter JI the hello FULL how arr themater number"))
 length=len(str(number))
 sum=0
 while number>0:
