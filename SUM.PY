@@ -1,4 +1,5 @@
-a=1
-b=2
-sum=a+b
-print(sum)
+message=str(input("enter the mesage"))
+print("you entered message will print from reverce")
+length=len(message)
+Print("by using the built method")
+print(revese)
