@@ -7,10 +7,10 @@ print("""
       
       
                                           
-                                        / 
-                                      /    \  
-                                    /        \ 
-                                  /____________
+               /\
+             /   \  
+           /      \ 
+         /_________\
       
       """)
 a=int(input("enter the value of the one side of the triangle"))
