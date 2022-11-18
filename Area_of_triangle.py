@@ -13,9 +13,9 @@ print("""
                                   /____________
       
       """)
-a=input("enter the value of the one side of the triangle")
-b=input("enter the value of the second side of the triangle")
-c=input("enter the value of the third side of the triangle")
-s=((a+b+c)/2)
-area=((s*(s-a)*(s-b)*(s-c))-1/2)
-print("AREA of the triangle is",area)
+a=int(input("enter the value of the one side of the triangle"))
+b=int(input("enter the value of the second side of the triangle"))
+c=int(input("enter the value of the third side of the triangle"))
+s=float(((a+b+c)/2))
+area=float(((s*(s-a)*(s-b)*(s-c))-1/2))
+print(area)
